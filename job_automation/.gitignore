@@ -1,0 +1,11 @@
+.env
+*.pyc
+__pycache__/
+output/*
+!output/.gitkeep
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+*.pdf
+*.docx
